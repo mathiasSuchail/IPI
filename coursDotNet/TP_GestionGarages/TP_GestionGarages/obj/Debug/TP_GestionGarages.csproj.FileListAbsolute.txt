@@ -1,0 +1,7 @@
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\bin\Debug\TP_GestionGarages.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\bin\Debug\TP_GestionGarages.pdb
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\obj\Debug\TP_GestionGarages.csproj.AssemblyReference.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\obj\Debug\TP_GestionGarages.csproj.SuggestedBindingRedirects.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\obj\Debug\TP_GestionGarages.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\obj\Debug\TP_GestionGarages.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_GestionGarages\TP_GestionGarages\obj\Debug\TP_GestionGarages.pdb

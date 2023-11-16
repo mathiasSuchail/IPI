@@ -1,0 +1,7 @@
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\bin\Debug\TP_Gestion_Compte.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\bin\Debug\TP_Gestion_Compte.pdb
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\obj\Debug\TP_Gestion_Compte.csproj.AssemblyReference.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\obj\Debug\TP_Gestion_Compte.csproj.SuggestedBindingRedirects.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\obj\Debug\TP_Gestion_Compte.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\obj\Debug\TP_Gestion_Compte.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Compte\obj\Debug\TP_Gestion_Compte.pdb

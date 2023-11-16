@@ -1,0 +1,7 @@
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\bin\Debug\TP_Pendu.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\bin\Debug\TP_Pendu.pdb
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\obj\Debug\TP_Pendu.csproj.AssemblyReference.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\obj\Debug\TP_Pendu.csproj.SuggestedBindingRedirects.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\obj\Debug\TP_Pendu.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\obj\Debug\TP_Pendu.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Pendu\TP_Pendu\obj\Debug\TP_Pendu.pdb

@@ -1,0 +1,7 @@
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\bin\Debug\TP_Gestion_Ecole.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\bin\Debug\TP_Gestion_Ecole.pdb
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\obj\Debug\TP_Gestion_Ecole.csproj.AssemblyReference.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\obj\Debug\TP_Gestion_Ecole.csproj.SuggestedBindingRedirects.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\obj\Debug\TP_Gestion_Ecole.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\obj\Debug\TP_Gestion_Ecole.exe
+\\wsl$\Ubuntu\home\mathias\IPI\coursDotNet\TP_Gestion_Ecole\obj\Debug\TP_Gestion_Ecole.pdb
